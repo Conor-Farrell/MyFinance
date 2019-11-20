@@ -1,0 +1,110 @@
+<resources>
+    <string name="appName" translatable="false">MyFinance</string>
+    <string name="appDescription">Financial Control\nAt Your Fingertips</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgottenPassword">Forgotten Your Password?</string>
+    <string name="invalidDataEntered">Invalid Data Entered</string>
+    <string name="noUserFound">No user under these credentials has been found. Please try again</string>
+    <string name="noInternet">Unable to connect to the Internet, please check your connection.</string>
+    <string name="firstName">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="dob">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="selectYourCountry">COUNTRY</string>
+    <string name="selectYourCity">CITY</string>
+    <string name="serverError">Server Error</string>
+    <string name="userAlreadyExists">User Already Exists</string>
+    <string name="english" translatable="false">English</string>
+    <string name="spanish" translatable="false">Español</string>
+    <string name="french" translatable="false">Français</string>
+    <string name="german" translatable="false">Deutsche</string>
+    <string name="portuguese" translatable="false">Português</string>
+    <string name="irish" translatable="false">Gaeilge</string>
+    <string name="swedish" translatable="false">Svenska</string>
+    <string name="italian" translatable="false">Italiano</string>
+    <string name="welcomeMessage">Welcome, to MyFinance</string>
+    <string name="infoOne">MyFinance is a simple tool designed to help you manage your income, track your expenses, and save for the future you want!</string>
+    <string name="infoTwo">Simply add your usual income, and state how much you are looking to save over a given period.</string>
+    <string name="infoThree">Then add your expenditure to see where you can cut costs and make savings. MyFinance will offer suggestions on how you can cut back on certain items.</string>
+    <string name="infoFour">You’re almost there! We’ve sent you an email to verify your registration. Be sure to check your email to confirm your account and get started!</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="gotIt">Got it!</string>
+    <string name="firstExercise">EXERCISE 1 \n3 sets of 10 repetitions \nSet time: 1:30 \nTotal time: 4:30</string>
+    <string name="secondExercise">EXERCISE 2 \n3 sets of 10 repetitions \nSet time: 1:30 \nTotal time: 4:30</string>
+    <string name="thirdExercise">EXERCISE 3 \n3 sets of 10 repetitions \nSet time: 2:30 \nTotal time: 7:30</string>
+    <string name="fourthExercise">EXERCISE 4 \n3 sets of 10 repetitions \nSet time: 1:30 \nTotal time: 4:30</string>
+    <string name="timer" translatable="false">00:00</string>
+    <string name="oneMin30" translatable="false">01:30</string>
+    <string name="twoMins30" translatable="false">01:30</string>
+    <string name="setTime">Set Time</string>
+    <string name="totalTime">Total Time</string>
+    <string name="setProgress">Set Progress</string>
+    <string name="totalProgress">Total Progress</string>
+    <string name="zeroMinutes" translatable="false">00:</string>
+    <string name="oneMinute" translatable="false">01:</string>
+    <string name="twoMinutes" translatable="false">02:</string>
+    <string name="threeMinutes" translatable="false">03:</string>
+    <string name="fourMinutes" translatable="false">04:</string>
+    <string name="fiveMinutes" translatable="false">05:</string>
+    <string name="sixMinutes" translatable="false">06:</string>
+    <string name="sevenMinutes" translatable="false">07:</string>
+    <string name="eightMinutes" translatable="false">08:</string>
+    <string name="nineMinutes" translatable="false">09:</string>
+    <string name="tenMinutes" translatable="false">10:</string>
+    <string name="elevenMinutes" translatable="false">11:</string>
+    <string name="twelveMinutes" translatable="false">12:</string>
+    <string name="thirteenMinutes" translatable="false">13:</string>
+    <string name="fourteenMinutes" translatable="false">14:</string>
+    <string name="fifteenMinutes" translatable="false">15:</string>
+    <string name="sixteenMinutes" translatable="false">16:</string>
+    <string name="seventeenMinutes" translatable="false">17:</string>
+    <string name="eighteenMinutes" translatable="false">18:</string>
+    <string name="nineteenMinutes" translatable="false">19:</string>
+    <string name="twentyMinutes" translatable="false">20:</string>
+    <string name="twentyOneMinutes" translatable="false">21:</string>
+    <string name="twentyTwoMinutes" translatable="false">22:</string>
+    <string name="twentyThreeMinutes" translatable="false">23:</string>
+    <string name="goBack">Go Back?</string>
+    <string name="goBackWarning">Going back would log you out and reset your progress for today. Are you sure you wish to do this?</string>
+    <string name="goBackFeedbackWarning">Going back now would reset your progress for today. Are you sure you wish to do this?</string>
+    <string name="restTimeRemaning">Rest Time Remaining</string>
+    <string name="seconds">Seconds</string>
+    <string name="logout">Logout</string>
+    <string name="areYouSureLogout">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleteUser">Delete Account</string>
+    <string name="areYouSureDeleteYourAccount">Are you sure you want to delete your account?</string>
+    <string name="enterOldPassword">Enter Old Password</string>
+    <string name="enterNewPassword">Enter New Password</string>
+    <string name="reEnterNewPassword">Re-Enter New Password</string>
+    <string name="update">Update</string>
+    <string name="passwordIncorrect">Password Incorrect</string>
+    <string name="newPasswordsDontMatch">New Passwords Don\'t Match</string>
+    <string name="newPasswordCannotMatchOldPassword">New Password Cannot Match Old Password</string>
+    <string name="unsuccessful">Unsuccessful</string>
+    <string name="feedback">Feedback</string>
+    <string name="todaysImages">Shown below are images taken from today\'s exercises.</string>
+    <string name="feedbackDescription">Rate the following based on how they affect you currently. \n(1 = Very Low &amp; 10 = Very High) </string>
+    <string name="fatigue">Fatigue</string>
+    <string name="hoursOfSleep">Hours of Sleep</string>
+    <string name="sleepQuality">Sleep Quality</string>
+    <string name="ten" translatable="false">10</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="six" translatable="false">6</string>
+    <string name="five" translatable="false">5</string>
+    <string name="four" translatable="false">4</string>
+    <string name="three" translatable="false">3</string>
+    <string name="two" translatable="false">2</string>
+    <string name="one" translatable="false">1</string>
+    <string name="giveYourFeedback">Give any other feedback you may have for your physiotherapist</string>
+    <string name="send">Send</string>
+    <string name="success">Email Sent Successfully</string>
+</resources>
